@@ -15,5 +15,5 @@ spec:
           app: argo
       spec:
         containers:
-          - image: tam86/react_argocd
+          - image: tam86/react_argocd:latest
           name: argo
